@@ -226,7 +226,7 @@ skillsbench-*/
 terminalbench-*/
 
 # Skill collection and search index (downloaded from HF)
-skills/
+/skills/
 skills-34k/
 search_server/index/
 search_index/
